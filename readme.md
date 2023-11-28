@@ -1,0 +1,1 @@
+Ola! Esse projeto ensina a você a fazer uma calculadora de forma simples e prática.
